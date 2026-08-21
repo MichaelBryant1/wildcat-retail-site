@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Wildcat Retail WR mark</title>
+  <desc id="desc">Black WR initials within a circular black and white mark.</desc>
+  <circle cx="120" cy="120" r="116" fill="#f4f2eb" stroke="#0d0f12" stroke-width="8"/>
+  <path d="M15 77A112 112 0 0 1 225 77H15ZM15 163h210a112 112 0 0 1-210 0Z" fill="#0d0f12"/>
+  <text x="120" y="157" text-anchor="middle" fill="#0d0f12" font-family="Impact, Arial Narrow, Arial, sans-serif" font-size="112" letter-spacing="-8">WR</text>
+</svg>
